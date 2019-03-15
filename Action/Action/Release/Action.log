@@ -1,0 +1,9 @@
+﻿  menu.cpp
+c:\users\ato\source\repos\action\action\menu.cpp(211): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ato\source\repos\action\action\menu.cpp(281): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  2 of 69 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Action.vcxproj -> C:\Users\ato\source\repos\Action\Release\Action.exe
